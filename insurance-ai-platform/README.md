@@ -9,6 +9,8 @@ Insurance platforms must balance:
 - explainability
 - regulatory compliance
 
+---
+
 ## Architecture
 
 ### Data Sources
@@ -36,11 +38,15 @@ Insurance platforms must balance:
 - Risk scoring
 - Claims automation
 
+---
+
 ## Challenges
 
 - biased models
 - lack of explainability
 - sensitive data exposure
+
+---
 
 ## Controls
 
@@ -48,6 +54,8 @@ Insurance platforms must balance:
 - explainable AI models
 - secure feature stores
 - audit trails
+
+---
 
 ## Metrics
 

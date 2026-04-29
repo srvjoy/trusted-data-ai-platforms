@@ -11,6 +11,8 @@ Utilities operate at the intersection of:
 
 This creates a cyber-physical architecture challenge.
 
+---
+
 ## Architecture Layers
 
 ### 1. Business Applications
@@ -49,6 +51,7 @@ This creates a cyber-physical architecture challenge.
 - SIEM / SOAR
 - OT monitoring tools
 
+---
 
 ## Key Risks
 
@@ -56,6 +59,8 @@ This creates a cyber-physical architecture challenge.
 - Data leakage (PII + operational)
 - ETL manipulation
 - Insider misuse
+
+---
 
 ## Controls
 
@@ -65,11 +70,15 @@ This creates a cyber-physical architecture challenge.
 - IAM least privilege
 - DLP enforcement
 
+---
+
 ## AI Use Cases
 
 - Predictive maintenance
 - Demand forecasting
 - Anomaly detection
+
+---
 
 ## Success Metrics
 
